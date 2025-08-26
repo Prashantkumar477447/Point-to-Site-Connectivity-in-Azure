@@ -7,7 +7,6 @@ Here’s a clean **README.md** draft you can directly use in your repo:
 ````markdown
 # 🚀 Access Azure VM Webpage via Private IP using Point-to-Site (P2S) VPN
 
-![WhatsApp Image 2025-08-26 at 16 18 11_5767eded](https://github.com/user-attachments/assets/824df4d4-4366-479e-a1a1-b065bc280faa)
 
 This guide explains how to deploy a simple **Ubuntu VM webpage** in Azure and access it securely using **Point-to-Site (P2S) VPN** through an **Azure VPN Gateway**.
 
