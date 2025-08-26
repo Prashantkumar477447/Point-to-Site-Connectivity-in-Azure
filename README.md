@@ -116,6 +116,7 @@ sudo openvpn --config azurevpnconfig.ovpn
    ```
 
 🎉 You should see your **private webpage**, accessible only through VPN.
+![WhatsApp Image 2025-08-26 at 16 17 40_a50126e6](https://github.com/user-attachments/assets/b871dea2-6365-48bb-a54d-a3c77d4d5714)
 
 ---
 
