@@ -47,6 +47,9 @@ Check Apache is running:
 ```bash
 systemctl status apache2
 ```
+![WhatsApp Image 2025-08-27 at 11 45 23_241d02c5](https://github.com/user-attachments/assets/f95eb5ae-5fea-433e-a889-7bca8c400f59)
+
+![WhatsApp Image 2025-08-26 at 16 18 15_04e18221](https://github.com/user-attachments/assets/081bb9b8-06c9-42f0-98ce-3f08dd01b81b)
 
 ---
 
@@ -59,6 +62,7 @@ systemctl status apache2
    * **Address pool**: `172.16.0.0/24`
    * **Tunnel type**: `OpenVPN (SSL)`
    * **Authentication type**: `Azure certificate`
+![WhatsApp Image 2025-08-27 at 11 46 27_24b00a5d](https://github.com/user-attachments/assets/8f5bc581-55da-4006-b1f8-2e04276bf87d)
 
 ---
 
