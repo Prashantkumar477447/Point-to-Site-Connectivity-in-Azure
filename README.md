@@ -1,4 +1,4 @@
-P2S VPN Gateway-in-Azure
+## P2S VPN Gateway-in-Azure
 Got it 👍 You want all the above steps (Point-to-Site VPN setup + VM private IP webpage access) written in a **GitHub README.md** style.
 Here’s a clean **README.md** draft you can directly use in your repo:
 
